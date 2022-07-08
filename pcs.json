@@ -1,0 +1,25 @@
+[
+ {
+  "Motherboard": "gigabyte",
+  "Processor": "intel i9",
+  "GraphicsCard": "gigabyte 3090",
+  "RamGB": 32,
+  "Fans": [
+   "back",
+   "front",
+   "top"
+  ]
+ },
+ {
+  "Motherboard": "msi",
+  "Processor": "ryzen 9",
+  "GraphicsCard": "msi rx 6800",
+  "RamGB": 32,
+  "Fans": [
+   "back",
+   "front",
+   "top",
+   "liquid cooled"
+  ]
+ }
+]
